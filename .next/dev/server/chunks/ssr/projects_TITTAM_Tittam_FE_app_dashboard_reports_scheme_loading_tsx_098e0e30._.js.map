@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/rajes/Documents/projects/TITTAM/Tittam_FE/app/dashboard/reports/scheme/loading.tsx"],"sourcesContent":["export default function Loading() {\n  return (\n    <div className=\"flex items-center justify-center h-screen\">\n      <div className=\"animate-spin rounded-full h-8 w-8 border-b-2 border-[#013A65]\"></div>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,iRAAC;QAAI,WAAU;kBACb,cAAA,iRAAC;YAAI,WAAU;;;;;;;;;;;AAGrB","debugId":null}}]
-}

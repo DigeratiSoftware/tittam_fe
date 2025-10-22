@@ -1,3 +1,0 @@
-module.exports=[16350,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(21186);a.n(d("[project]/projects/TITTAM/tittam_fe/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},93245,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(21186);a.n(d("[project]/projects/TITTAM/tittam_fe/node_modules/next/dist/client/components/builtin/global-error.js"))},97417,a=>{"use strict";a.i(16350);var b=a.i(93245);a.n(b)}];
-
-//# sourceMappingURL=84540_next_dist_client_components_builtin_global-error_85532a18.js.map
