@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/a7007_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_357ad583._.js",
+    "static/chunks/a7007_next_dist_compiled_react-dom_e9ef5c2f._.js",
+    "static/chunks/a7007_next_dist_compiled_react-server-dom-turbopack_314b567e._.js",
+    "static/chunks/a7007_next_dist_compiled_next-devtools_index_45f7108a.js",
+    "static/chunks/a7007_next_dist_compiled_53723de4._.js",
+    "static/chunks/a7007_next_dist_client_fee65f22._.js",
+    "static/chunks/a7007_next_dist_a30dfa36._.js",
+    "static/chunks/a7007_@swc_helpers_cjs_62ca5f63._.js",
+    "static/chunks/projects_TITTAM_Tittam_FE_a0ff3932._.js",
+    "static/chunks/turbopack-projects_TITTAM_Tittam_FE_96428df5._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}

@@ -1,0 +1,7 @@
+{
+  "/dashboard/drive/page": "app/dashboard/drive/page.js",
+  "/dashboard/info-hub/page": "app/dashboard/info-hub/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/work/page": "app/dashboard/work/page.js",
+  "/page": "app/page.js"
+}
