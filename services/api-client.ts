@@ -8,7 +8,7 @@ class ApiClient {
   }
 
   constructor() {
-    this.baseURL = "http://localhost:4000"
+    this.baseURL = "http://13.201.184.160:4000"
   }
 
   private async request(endpoint: string, options: RequestInit = {}): Promise<any> {

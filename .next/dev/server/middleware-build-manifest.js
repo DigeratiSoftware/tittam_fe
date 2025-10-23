@@ -3,9 +3,22 @@ globalThis.__BUILD_MANIFEST = {
     "/_app": []
   },
   "devFiles": [],
-  "polyfillFiles": [],
+  "polyfillFiles": [
+    "static/chunks/84540_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
   "lowPriorityFiles": [],
-  "rootMainFiles": []
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2688ce2e._.js",
+    "static/chunks/84540_next_dist_compiled_react-dom_a619f5aa._.js",
+    "static/chunks/84540_next_dist_compiled_react-server-dom-turbopack_1163a17f._.js",
+    "static/chunks/84540_next_dist_compiled_next-devtools_index_ca26024f.js",
+    "static/chunks/84540_next_dist_compiled_c1dc0cee._.js",
+    "static/chunks/84540_next_dist_client_9347787c._.js",
+    "static/chunks/84540_next_dist_598abd40._.js",
+    "static/chunks/84540_@swc_helpers_cjs_60b3ebf8._.js",
+    "static/chunks/projects_TITTAM_tittam_fe_a0ff3932._.js",
+    "static/chunks/turbopack-projects_TITTAM_tittam_fe_41f7c5db._.js"
+  ]
 };
 globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
 "/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",

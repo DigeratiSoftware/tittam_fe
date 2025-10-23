@@ -1,1 +1,87 @@
-[00:00:03.124] Server  LOG      ✓ Ready in 2.2s
+[00:00:03.185] Server  LOG      ✓ Ready in 2.1s
+[00:00:06.553] Server  LOG      ○ Compiling / ...
+[00:00:16.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.688] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="/projects/...">
+              <SegmentTrieNode>
+              <Home>
+                <LoginPage>
+                  <div className="min-h-scre..." style={{...}}>
+                    <Card className="relative z...">
+                      <div data-slot="card" className="text-card-...">
+                        <CardContent className="pt-0 pb-0 ...">
+                          <div data-slot="card-content" className="pt-0 pb-0 ...">
+                            <form onSubmit={function handleSubmit} className="space-y-4">
+                              <div className="space-y-2">
+                                <Label>
+                                <Input id="username" type="text" placeholder="Enter user..." value="" ...>
+                                  <input
+                                    type="text"
+                                    data-slot="input"
+                                    className="file:text-foreground placeholder:text-muted-foreground selection:bg-pri..."
+                                    id="username"
+                                    placeholder="Enter username"
+                                    value=""
+                                    onChange={function onChange}
+                                    required={true}
+                                    disabled={false}
+-                                   fdprocessedid="6qx0b"
+                                  >
+                              <div className="space-y-2">
+                                <Label>
+                                <Input id="password" type="password" placeholder="Enter pass..." value="" ...>
+                                  <input
+                                    type="password"
+                                    data-slot="input"
+                                    className="file:text-foreground placeholder:text-muted-foreground selection:bg-pri..."
+                                    id="password"
+                                    placeholder="Enter password"
+                                    value=""
+                                    onChange={function onChange}
+                                    required={true}
+                                    disabled={false}
+-                                   fdprocessedid="fxuo5"
+                                  >
+                              <Button type="submit" className="w-full h-1..." disabled={false}>
+                                <button
+                                  data-slot="button"
+                                  className={"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded..."}
+                                  type="submit"
+                                  disabled={false}
+-                                 fdprocessedid="r3umaf"
+                                >
++                                 Sign In
+                              <div className="text-center">
+                                <button
+                                  type="button"
+                                  className="text-sm text-[#013A65] hover:text-[#F3B335] font-bold transition-colors p..."
+                                  onClick={function onClick}
+-                                 fdprocessedid="ec4h4"
+                                >
++                                 Forgot Password?
+            ...
+          ...
+
+[00:00:25.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.851] Browser LOG     [v0] Making API request to: http://13.201.184.160:4000/api/v1/users/login
+[00:00:34.851] Browser LOG     [v0] Request config: {"headers":{"Content-Type":"application/json"},"method":"POST","url":"http://13.201.184.160:4000/api/v1/users/login"}
+[00:00:35.098] Browser LOG     [v0] Response status: 200 OK
+[00:00:35.098] Browser LOG     [v0] API success response: {"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGFlZWNjZmQwYTE1YjVjMDA0YTY2Y2YiLCJlbWFpbCI6ImJhbGFAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzYxMTkwODkzLCJleHAiOjE3NjEyNzcyOTN9.gXGGuPUMI7Eh7soG-o6ceaFr52LueqqUo7Jjxgk26SM","currentLoginAt":"2025-10-23T03:41:33.752Z","lastLoginAt":"2025-10-22T14:39:12.453Z","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGFlZWNjZmQwYTE1YjVjMDA0YTY2Y2YiLCJlbWFpbCI6ImJhbGFAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzYxMTkwODkzLCJleHAiOjE3NzY3NDI4OTN9.Stck_UjSNwH1v7KARhoVBLmpF5hpJNQ6QDJY7-6-39E","success":true,"user":{"_id":"68aeeccfd0a15b5c004a66cf","createdAt":"2025-08-27T11:32:31.742Z","createdBy":"system","currentLoginAt":"2025-10-22T14:39:12.453Z","email":"bala@gmail.com","isActive":true,"lastLoginAt":"2025-10-22T14:32:05.718Z","loginStatus":true,"name":"Balaji","phone":"9876567898","role":"admin","updatedAt":"2025-10-22T14:39:12.468Z","updatedBy":"rajesh.rajeshk3993@gmail.com","userId":"USR004"}}
+[00:00:38.020] Server  LOG      ○ Compiling /dashboard ...
+[00:00:44.718] Browser WARN    Image with src "http://localhost:3000/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

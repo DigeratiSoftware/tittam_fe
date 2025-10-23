@@ -10,7 +10,7 @@ export interface ApiResponse<T = any> {
 class ApiClient {
   private baseUrl: string
 
-  constructor(baseUrl = "http://127.0.0.1:4000") {
+  constructor(baseUrl = "http://13.201.184.160:4000") {
     this.baseUrl = baseUrl
   }
 
