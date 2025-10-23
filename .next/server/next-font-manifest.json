@@ -1,0 +1,91 @@
+{
+  "app": {
+    "[project]/projects/TITTAM/tittam_fe/app/_not-found/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/components/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/contractors/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/drive/manage/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/drive/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/fields/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/info-hub/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/masters/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/meetings/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/notifications/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/reports/dashboard/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/reports/meeting/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/reports/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/reports/scheme/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/schemes/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/smart-sheets/create/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/smart-sheets/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/smart-sheets/shared/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/smart-sheets/view/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/smart-view/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/sub-components/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/support/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/templates/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/users/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/work/create/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/dashboard/work/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/projects/TITTAM/tittam_fe/app/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
